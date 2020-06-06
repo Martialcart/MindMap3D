@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MindMap:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="MindMap.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/resourcecs/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="MindMap" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.0-RC2/junit-jupiter-api-5.5.0-RC2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.0-RC2/junit-platform-commons-1.5.0-RC2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
