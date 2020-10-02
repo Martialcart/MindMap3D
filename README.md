@@ -2,16 +2,16 @@
 
 a mindmap that allows looping og elements
 
-save                  ctrl <filename>
+save                 - ctrl <filename>
   
-load                  ins <filename>
+load                 - ins <filename>
   
-create thought        <text> enter
+create thought       - <text> enter
   
-delete thought        delete
+delete thought       - delete
 
-cycle selection       left arrow, right arrow
+cycle selection      - left arrow, right arrow
 
-go to selected        down arrow
+go to selected       - down arrow
 
-connect to selected   up arrow
+connect to selected  - up arrow
