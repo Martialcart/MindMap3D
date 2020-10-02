@@ -2,11 +2,11 @@
 
 a mindmap that allows looping og elements
 
-save                 - ctrl <filename>
+save                 - ctrl filename
   
-load                 - ins <filename>
+load                 - ins filename
   
-create thought       - <text> enter
+create thought       - text enter
   
 delete thought       - delete
 
