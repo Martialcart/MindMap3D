@@ -2,9 +2,9 @@
 
 a mindmap that allows looping og elements
 
-save                 - ctrl filename
+save                 - filename ctrl 
   
-load                 - ins filename
+load                 - filename ins
   
 create thought       - text enter
   
