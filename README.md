@@ -12,6 +12,6 @@ delete thought       - delete
 
 cycle selection      - left arrow, right arrow
 
-go to selected       - down arrow
+go to selected       - up arrow
 
-connect to selected  - up arrow
+connect to selected  - down arrow
